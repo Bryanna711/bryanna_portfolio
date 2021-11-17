@@ -73,7 +73,7 @@ const Projects = () => {
                                 <div className="card-100 border border-dark border-5 border-rounded">
                                     <img src="images/homeshool hookup.png"
                                         className="card-img-top border border-drk border-rounded border-3"
-                                        alt="Horiseon Screenshot"></img>
+                                        alt="Homeschool Screenshot"></img>
                                     <div className="card-body">
                                         <h5 className="card-title">HomeSchool Hookup</h5>
                                         <p className="card-text">An application that connects families who are homeschooling with one
