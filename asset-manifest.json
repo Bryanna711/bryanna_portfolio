@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/bryanna_portfolio/static/css/main.3d5a6820.chunk.css",
+    "main.js": "/bryanna_portfolio/static/js/main.b1fb349a.chunk.js",
+    "main.js.map": "/bryanna_portfolio/static/js/main.b1fb349a.chunk.js.map",
+    "runtime-main.js": "/bryanna_portfolio/static/js/runtime-main.f0ac23e4.js",
+    "runtime-main.js.map": "/bryanna_portfolio/static/js/runtime-main.f0ac23e4.js.map",
+    "static/css/2.383c0125.chunk.css": "/bryanna_portfolio/static/css/2.383c0125.chunk.css",
+    "static/js/2.783ba69b.chunk.js": "/bryanna_portfolio/static/js/2.783ba69b.chunk.js",
+    "static/js/2.783ba69b.chunk.js.map": "/bryanna_portfolio/static/js/2.783ba69b.chunk.js.map",
+    "index.html": "/bryanna_portfolio/index.html",
+    "static/css/2.383c0125.chunk.css.map": "/bryanna_portfolio/static/css/2.383c0125.chunk.css.map",
+    "static/css/main.3d5a6820.chunk.css.map": "/bryanna_portfolio/static/css/main.3d5a6820.chunk.css.map",
+    "static/js/2.783ba69b.chunk.js.LICENSE.txt": "/bryanna_portfolio/static/js/2.783ba69b.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.f0ac23e4.js",
+    "static/css/2.383c0125.chunk.css",
+    "static/js/2.783ba69b.chunk.js",
+    "static/css/main.3d5a6820.chunk.css",
+    "static/js/main.b1fb349a.chunk.js"
+  ]
+}
