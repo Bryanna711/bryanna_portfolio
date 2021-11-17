@@ -1,38 +1,58 @@
-.App {
-  text-align: center;
+* {
+  font-family: "Special Elite", cursive;
+  background-color: rgb(10, 65, 46);
 }
 
-.App-logo {
-  height: 40vmin;
-  pointer-events: none;
-}
-
-@media (prefers-reduced-motion: no-preference) {
-  .App-logo {
-    animation: App-logo-spin infinite 20s linear;
-  }
-}
-
-.App-header {
-  background-color: #282c34;
-  min-height: 100vh;
-  display: flex;
-  flex-direction: column;
-  align-items: center;
-  justify-content: center;
-  font-size: calc(10px + 2vmin);
+/* #footer {
+  background-color: rgb(18, 100, 71);
   color: white;
 }
 
-.App-link {
-  color: #61dafb;
+.list-group-item {
+  background-color: rgb(10, 65, 46);
+  color: white;
+} */
+.card-body {
+  background-color: rgb(93, 202, 164);
 }
 
-@keyframes App-logo-spin {
-  from {
-    transform: rotate(0deg);
-  }
-  to {
-    transform: rotate(360deg);
-  }
+.card-text {
+  color: rgb(83, 1, 1);
+  background-color: rgb(93, 202, 164);
+}
+
+.card-title {
+  color: rgb(109, 5, 5);
+  background-color: rgb(93, 202, 164);
+}
+.navbar {
+  background-color: rgb(93, 202, 164);
+}
+
+.nav {
+  background-color: rgb(93, 202, 164);
+}
+
+.nav-link {
+  background-color: rgb(93, 202, 164);
+  color: rgb(83, 1, 1);
+}
+
+.card-text .text-reset {
+  background-color: rgb(93, 202, 164);
+}
+
+.mt-4 {
+  background-color: rgb(109, 5, 5);
+}
+h1 {
+  background-color: rgb(109, 5, 5);
+}
+
+.mt-4 p {
+  background-color: rgb(109, 5, 5);
+}
+
+h2 {
+  font-size: 40px;
 }
