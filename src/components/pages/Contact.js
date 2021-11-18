@@ -9,8 +9,7 @@ const Contact = () => {
     const handleInputChange = (e) => {
         const { name, value } = e.target;
 
-        return name === 'name' ? setName(value) : name === 'email' ? setEmail(value) : setMessage(value)
-    }
+        return name === 'name' ? setName(value) : name === 'email' ? setEmail(value)}
 
     const handleFormSubmit = (e) => {
         e.preventDefault();
