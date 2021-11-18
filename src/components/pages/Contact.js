@@ -24,7 +24,7 @@ const Contact = () => {
 
     return (
         <div>
-            <div className="col-xl-9">
+            <div className="col-xl-9 align-self center">
                 <div className="mb-3 ">
                     <label for="exampleFormControlInput1" className="form-label text-white">Name: </label>
                     <input type="text"
