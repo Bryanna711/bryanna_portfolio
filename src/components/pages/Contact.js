@@ -1,6 +1,7 @@
 import React from "react";
 
 const Contact = () => {
+
     return (
         <div>
             <div className="col-xl-9">
@@ -16,7 +17,7 @@ const Contact = () => {
                     <label for="exampleFormControlTextarea1" className="form-label text-white">Message: </label>
                     <textarea className="form-control" id="exampleFormControlTextarea1" rows="3"></textarea>
                 </div>
-                <button className="btn btn-outline-light" type="button" id="button-addon2">Send</button>
+                <button className="btn btn-outline-light" href="#About" type="button" id="button-addon2">Send</button>
             </div>
         </div>
     )
